@@ -1,6 +1,5 @@
+import { FiMoon, FiSun } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
-import { motion } from 'framer-motion';
-import { FiSun, FiMoon } from 'react-icons/fi';
 
 interface NavbarProps {
   darkMode: boolean;
